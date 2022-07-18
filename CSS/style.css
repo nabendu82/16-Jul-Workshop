@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
+div{
+    border: 2px solid green;
+    padding: 0;
+
+}
+
+h2{
+    text-align: center;
+    font-weight: bold;
+}
+
+.list ul{
+    padding: 0;
+    list-style: none;
+    margin-bottom: 20px;
+}
+
+.list a{
+    text-decoration: none;
+    color: black;
+    margin-bottom: 20px;
+    padding: 20px;
+    list-style: none;
+    
+}
+
+.list a:hover{
+    background-color: red;
+
+}
